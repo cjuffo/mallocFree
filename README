@@ -1,0 +1,6 @@
+CJUFFO
+
+make static creates a Static program
+make dynamic creates a dynamic program
+make test will run both programs. If make dynamic does not work, make test will run static version
+
